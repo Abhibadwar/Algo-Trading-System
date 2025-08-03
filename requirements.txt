@@ -1,0 +1,6 @@
+yfinance
+ta
+scikit-learn
+gspread
+oauth2client
+requests
