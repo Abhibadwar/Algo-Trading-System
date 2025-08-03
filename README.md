@@ -1,5 +1,5 @@
 
-````markdown
+
 # 📈 Algo-Trading Strategy using Technical Indicators and Machine Learning
 
 This project demonstrates a basic algorithmic trading system that uses technical indicators (RSI, MACD) to predict stock price movements and train a Decision Tree classifier for buy/sell signal predictions.
@@ -8,15 +8,15 @@ This project demonstrates a basic algorithmic trading system that uses technical
 
 ## 🚀 Features
 
-- 📥 Fetches real-time historical data using `yfinance`
-- 📊 Computes key technical indicators: RSI & MACD
-- 🧠 Uses a Decision Tree Classifier to predict next-day price movement
-- 📈 Model performance evaluated using Accuracy
-- 📉 Preprocessed and cleaned time-series data for modeling
+- Fetches real-time historical data using `yfinance`
+- Computes key technical indicators: RSI & MACD
+- Uses a Decision Tree Classifier to predict next-day price movement
+- Model performance evaluated using Accuracy
+- Preprocessed and cleaned time-series data for modeling
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python 3.x**
 - **Libraries**:
@@ -27,7 +27,7 @@ This project demonstrates a basic algorithmic trading system that uses technical
 
 ---
 
-## 📦 Installation
+## Installation
 
 
 1. Create a virtual environment (optional):
